@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/rtloesch/spring5-mysql-recipe-app2.svg?style=svg)](https://circleci.com/gh/rtloesch/spring5-mysql-recipe-app2)
 
-[![codecov](https://codecov.io/gh/rtloesch/spring5-mysql-recipe-app2/branch/master/graph/badge.svg)](https://codecov.io/gh/rtloesch/spring5-mysql-recipe-app)
+[![codecov](https://codecov.io/gh/rtloesch/spring5-mysql-recipe-app2/branch/master/graph/badge.svg)](https://codecov.io/gh/rtloesch/spring5-mysql-recipe-app2)
 
 This repository is for an example application built based on Spring Framework 5 - Beginner to Guru
 
